@@ -7,7 +7,11 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
 # Features
 
 1.Responsive Design
+
 2.Project Showcase
+
 3.Skills Highlight
+
 4.About Me
+
 5.Contact Form
