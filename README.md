@@ -1,6 +1,6 @@
 # Portfolio Responsive Complete
 
-Checkout Live Website at https://hs7898753.github.io/Personal-Portfolio.github.io/
+Checkout Live Website at https://hs7898753.github.io/Personal-Portfolio/
 
 ![preview](preview.png)
 
